@@ -4,8 +4,10 @@
 
 ##1.Organisation Overview:
 
-##NAME: Nokwanda’s Baked Goods 
+##NAME: Nokwanda’s Baked Goods <br>
 Brief history of our business. 
+
+
 Nokwanda’s baked goods was established in February of 2016.it all started in a small 
 kitchen in my house and grew to become one of the best developing bakery businesses 
 in South Africa also deeply inspired by our customers interests in baked goods.
