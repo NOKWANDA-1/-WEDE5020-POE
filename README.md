@@ -1,10 +1,10 @@
-#WEDE5020-POE
+# WEDE5020-POE
 
-#Website proposal for Nokwanda’s Baked Goods
+# Website proposal for Nokwanda’s Baked Goods
 
-##1.Organisation Overview:
+## 1.Organisation Overview:
 
-##NAME: Nokwanda’s Baked Goods <br>
+## NAME: Nokwanda’s Baked Goods <br>
 Brief history of our business. 
 
 
@@ -12,15 +12,15 @@ Nokwanda’s baked goods was established in February of 2016.it all started in a
 kitchen in my house and grew to become one of the best developing bakery businesses 
 in South Africa also deeply inspired by our customers interests in baked goods.
 
-##Mission and vision. 
+## Mission and vision. 
 
 
-➢ Our mission is to deliver a sensory experience of freshness, quality, and flavour 
+Our mission is to deliver a sensory experience of freshness, quality, and flavour 
 in every loaf, scones, biscuit, muffin and cakes.  
-➢ our vision is to be the heart of our community, nourishing families and creating 
+our vision is to be the heart of our community, nourishing families and creating 
 warm memories with every bite.
 
-##Target audience
+## Target audience
 
 
 ➢ Our target audience typically refers to residents, families, and everyone who 
@@ -31,7 +31,7 @@ conscious about their health opting for gluten-free options.
 ➢ Event planners seeking to get or buy custom cakes for birthday parties, wedding 
 cakes, cupcakes and other corporate events.
 
-##Website Goals and Objectives 
+## Website Goals and Objectives 
 
 
 ➢ The core goals for our business website involves increasing visibility, building a 
