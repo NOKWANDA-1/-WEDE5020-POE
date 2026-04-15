@@ -23,25 +23,24 @@ warm memories with every bite.
 ## Target audience
 
 
-➢ Our target audience typically refers to residents, families, and everyone who 
+ Our target audience typically refers to residents, families, and everyone who 
 loves the taste of freshly baked goods. 
-➢ This can include busy individuals who are ready to just bust in for a quick snack, 
+ This can include busy individuals who are ready to just bust in for a quick snack, 
 parents getting bread or pastries for their kids’ lunchbox, and people who are 
 conscious about their health opting for gluten-free options. 
-➢ Event planners seeking to get or buy custom cakes for birthday parties, wedding 
+ Event planners seeking to get or buy custom cakes for birthday parties, wedding 
 cakes, cupcakes and other corporate events.
 
 ## Website Goals and Objectives 
 
-
-➢ The core goals for our business website involves increasing visibility, building a 
+The core goals for our business website involves increasing visibility, building a 
 brand and creating a bridge between instore or online sales. 
-➢ It is also to make our business discoverable to potential customers looking for 
+It is also to make our business discoverable to potential customers looking for 
 baked goods around Mpumalanga. 
-➢ Objectives, we have created a menu with prices for each product so our 
+Objectives, we have created a menu with prices for each product so our 
 customers can know what to expect when buying from our bakery. 
-➢ We also offer online ordering to avoid queue instore and so the staff can focus 
+We also offer online ordering to avoid queue instore and so the staff can focus 
 more on production and delivering orders. 
-➢ We also offer once off digital coupons to every customer after their first 
+We also offer once off digital coupons to every customer after their first 
 purchase.
 
