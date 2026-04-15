@@ -12,13 +12,17 @@ Nokwanda’s baked goods was established in February of 2016.it all started in a
 kitchen in my house and grew to become one of the best developing bakery businesses 
 in South Africa also deeply inspired by our customers interests in baked goods.
 
-##Mission and vision.  
+##Mission and vision. 
+
+
 ➢ Our mission is to deliver a sensory experience of freshness, quality, and flavour 
 in every loaf, scones, biscuit, muffin and cakes.  
 ➢ our vision is to be the heart of our community, nourishing families and creating 
 warm memories with every bite.
 
 ##Target audience
+
+
 ➢ Our target audience typically refers to residents, families, and everyone who 
 loves the taste of freshly baked goods. 
 ➢ This can include busy individuals who are ready to just bust in for a quick snack, 
@@ -28,6 +32,8 @@ conscious about their health opting for gluten-free options.
 cakes, cupcakes and other corporate events.
 
 ##Website Goals and Objectives 
+
+
 ➢ The core goals for our business website involves increasing visibility, building a 
 brand and creating a bridge between instore or online sales. 
 ➢ It is also to make our business discoverable to potential customers looking for 
