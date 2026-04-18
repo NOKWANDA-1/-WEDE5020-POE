@@ -52,11 +52,11 @@ Our website will contain an about us page which will practically explain our bus
 
 The website design for Nokwanda’s baked goods uses a soft, modern aesthetic that feels friendly and approachable while showcasing our commitment to quality and freshness. The goal being creating an online experience that feels as warm as walking into our bakery.
 
- Colour scheme: the palette centres a pink background colour to convey the warmth and sweetness of our baked goods with a traditional black text to keep things clean and readable
+Colour scheme: the palette centres a pink background colour to convey the warmth and sweetness of our baked goods with a traditional black text to keep things clean and readable
 
-	Layout and design: layouts are spacious so products can be seen and stand with its own pricing. sections from our about us page, products, contact info and image of products
+Layout and design: layouts are spacious so products can be seen and stand with its own pricing. sections from our about us page, products, contact info and image of products
 
- Navigation: our navigation stays simple our design ensures parents, busy individuals, event planners or just customers can browse and make an order quickly.
+Navigation: our navigation stays simple our design ensures parents, busy individuals, event planners or just customers can browse and make an order quickly.
 
 This gives our business a sweet brand feel while keeping the site fast, accessible, easy to use on any device.
 
@@ -67,7 +67,7 @@ Hosting & domain: secure hosting with SSL certificate. Custom domain so people c
 
 Seo & analytics: Meta tags and alt text for product images.html, css for the structure of the website.
 
-	Security & maintenance: daily backups, spam protection on forms, updates and maintenance every month.
+Security & maintenance: daily backups, spam protection on forms, updates and maintenance every month.
 
 Scalability: structure allows future e-commerce add-on for online payments and delivery scheduling without rebuilding the site.
 
@@ -77,28 +77,28 @@ Scalability: structure allows future e-commerce add-on for online payments and d
 Week1: discovery and planning, this is when we choose a business idea confirming our goals, mission and vision and target audience
 Content collection being the products or baked goods we are going to be offering, price list and photographs.
 
-	Week 2: Design, choosing the websites background, font style, design for our pages and contact pages. 
+Week 2: Design, choosing the websites background, font style, design for our pages and contact pages. 
 
 Week 3: development, creating he direct folders for our websites on files app and writing and creating our website on visual studio code.
 On-page, meta tags, alt text and images to showcase our delicious products.
 
-	Week 4: testing and update: updating and adding more content on the about us page and creating and enquiry page for our customers to find out more about our products.
+Week 4: testing and update: updating and adding more content on the about us page and creating and enquiry page for our customers to find out more about our products.
 
 week 5: launching and pushing code using GitHub and creating a read.me repository
 
 ## Budget
 
-	Website design and development: R8500-R12000
+Website design and development: R8500-R12000
 This includes the custom designs of the website, wireframes, the product catalogue with pricings, contact info for enquiry and testing.
 
-	Content and photography: R100-R2500
+Content and photography: R100-R2500
 Photography for the website are professional product photography with each picture raging at R500.
 
-	Hosting: this can be R1500-R2000 per year with the domain registration being R200 per year and hosting with backups being R100-R150 per month
-	Monthly maintenance: R450 per month
+Hosting: this can be R1500-R2000 per year with the domain registration being R200 per year and hosting with backups being R100-R150 per month
+Monthly maintenance: R450 per month
 Updates, backups, security monitoring,30 min of content updates.
 
-	Project total estimate: R9000-R15000 once-off + R450 per month
+Project total estimate: R9000-R15000 once-off + R450 per month
 Payment terms:50% deposit to start or 50% on the day of the first launch.
 
 
