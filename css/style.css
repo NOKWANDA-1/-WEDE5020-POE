@@ -1,0 +1,246 @@
+body {
+    
+    color: #060606;
+    background-color:hsl(6, 100%, 94%);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif Verdana;
+     
+    
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+    
+h2 {
+  color: #A55A5A;
+  text-align: none;
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: #A55A5A;
+  text-align: none;
+  margin-bottom: 20px;
+}
+
+h3 {
+  color: #A55A5A;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+}
+
+/* utility clss for custom text sizing*/
+.text{
+     font-size: 2em;
+
+}
+
+/* navigation bar layout container*/
+.nav-tabs{
+    display:flex 
+}
+
+/* primary navigation list and styling*/
+.nav-tabs{
+    display:flex;
+    gap:19px;
+    list-style: none;
+    margin:0;
+    padding:0;
+    justify-content: center;
+     box-shadow: 22px 23px 15px 5px rgba(0, 0, 0, 0.20);
+     gap:19px;
+border-radius:4px;
+border-bottom: 3px solid rgb(179, 89, 105);
+    justify-content: center;
+    
+ 
+}
+
+
+nav a,
+.nav-tabs a,
+header a {
+    text-decoration: none;
+    color: #060606;
+    padding: 8px 10px;
+    transition: color 0.2s ease;
+    font-weight: 700;
+    margin-right: 20px;
+}
+
+.tab{
+    font-size: 1.5em;
+    font-weight: 500;
+    color:#a78484;
+    text-decoration: none;
+    cursor: pointer;
+    position: relative;
+    padding-bottom: 8px;
+    transition: color 0.2s ease;
+}
+.nav-tabs a:hover {
+    color: #706d6d;
+    box-shadow: 22px 23px 15px 0px rgba(0, 0, 0, 0.20);
+border-radius:8rem;
+}
+
+/* styling for the active navigation tab*/
+.tab.active {
+    color: rgba(214, 170, 207, 0.76);
+    font-weight: bold; /* makes text bold*/
+}
+
+/* create an underline effect using a pseudo-element*/
+.tab.active::after {
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translate(-50%);
+    width: 100%;
+    height: 3px;
+    background-color: #dbbde0;
+    border-radius:2px;
+}
+
+@media screen and (max-width:500px) {
+    .nav-tabs{
+        flex-direction: column;
+        align-items: center;
+        gap: 16px;
+        overflow-x: auto; /* allows horizontal scrolling if needed*/
+        scrollbar-width: none;
+    }
+}
+
+.nav-tabs::-webkit-scrollbar {
+    display: none;
+
+}
+/* centers an image block within its container*/
+.center-img{
+    display:block;
+    margin:0 auto;
+    
+}
+
+.image-container{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.image-container img{
+    width: 200%;
+    max-width: 700px;
+    height: 100%;
+    object-fit: cover;
+}
+
+.menu-wrapper{
+    display: flex;
+    gap:30px;
+    align-items: stretch;
+    width: 200%;
+    max-width: 500px;
+    margin: 35px;
+}
+
+.menu-image{
+    flex: 1;
+    display: flex;
+    
+}
+
+.menu-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 8px;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+/* container block for order items*/
+.order-container{
+
+  font-family: Arial, sans-serif;
+  background-image: url("img/background.png");
+  margin: 0;
+  padding: 20px;
+}
+.order-container {
+  max-width: 650px;
+  margin: 0 auto;
+  background: #fff;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+
+/* styling for form labels*/
+label {
+  display: block;
+  margin-top: 15px;
+  font-weight: 600;
+  font-size: 1em;
+}
+
+input, select, textarea {
+  width: 100%;
+  padding: 12px;
+  margin-top: 6px;
+  /* adds a thin light gray outline border*/
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font-size: 1em;
+  box-sizing: border-box;
+}
+
+input:focus, select:focus, textarea:focus {
+  outline: none;
+  border-color: #A55A5A;
+}
+/* layout styling for individual order items*/
+.order-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center; /* adds space between individual flexible elements*/
+  gap: 15px;
+  margin-top: 1em;
+  padding: 10px 0;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.item-name {
+  flex: 2;
+  font-weight: 500;
+}
+
+.order-item input {
+  flex: 1;
+  max-width: 1em;
+}
+
+button {
+  width: 100%;
+  padding: 1em;
+  margin-top: 1em;
+  background: #A55A5A;
+  color: white;
+  border: none;
+  border-radius: 1em;
+  font-size: 1em;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+button:hover { background: #8B4A4A; }

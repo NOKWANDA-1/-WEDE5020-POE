@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <title>
+            Home: Nokwanda's baked goods
+        </title>
+        <link rel="stylesheet" href="css/style.css">
+
+        <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+ <nav>
+    <style>
+.nav-tabs a:hover {
+  background-color: rgb(239, 187, 195);
+    font-size: 1em;
+}
+ 
+</style>
+ </nav>
+ 
+<ul class="nav-tabs">
+ 
+    <li class="tab" > <a href="index.html" > home </a> </li>
+    <li class="tab"> <a href="products.html">products</a> </li>
+    <li class="tab"> <a href="About us.html" >About us </a> </li>
+    <li class="tab"> <a href="contact.html" >contact </a> </li>
+    <li class="tab"> <a href="terms.html">Terms & Conditions </a> </li>
+  <li class="tab"> <a href="ordering.html">ordering </a> </li>
+    <li class="tab active"></li>
+
+    <style> 
+    body{
+       background-image: url("img/background.png");
+      margin: 0;
+      padding: 20px;
+    }
+    </style>
+     </head>
+
+</ul>
+
+<h1>Nokwanda's baked goods</h1>
+
+
+</nav>
+
+<body> 
+    
+    <img src= "img/FullLogo.jpg"  alt="bakery" width="55%" height="30%" length="85%" style="border-radius: 3em;" class="center-img">
+    
+ 
+
+<div class="order-container">
+  <h3>Place Your Order</h3>
+  
+  
+    <label>Full Name</label>
+    <input type="text" name="name" required>
+
+    <label>Email</label>
+    <input type="email" name="email" required>
+
+    <label>Phone</label>
+    <input type="tel" name="phone" required>
+
+    <label>What would you like to order?</label>
+      <div class="order-item">
+        <select id="item1">
+          <option value="">Select an item</option>
+          <option value="Sourdough Bread - R25">Sourdough Bread - R25</option>
+          <option value="Whole Wheat Bread - R30">Whole Wheat Bread - R30</option>
+          <option value="White Bread - R20">White Bread - R20</option>
+          <option value="Croissant - R30">Croissant - R30</option>
+          <option value="Plain Bagel - R15">Plain Bagel - R15</option>
+          <option value="Bagel with Filling - R25">Bagel with Filling - R25</option>
+
+          <option value="Slice of choco classic - R65">Slice of choco classic - R65</option>
+          <option value="Slice of Red velvet cake">Slice of Red velvet cake - R75</option>
+          <option value="slice of cookies and cream">Slice of cookies and cream - R65</option>
+          <option value="slice of vanilla">Slice of vanilla - R60</option>
+
+          <option value="">Choco Classic - R500</option>
+          <option value="">Red Velvet - R450</option>
+          <option value="">Cookies and Cream - R500</option>
+          <option value="">Vanilla - R550</option>
+
+          <option value="">Sugar cookies - R15</option>
+          <option value="">Chocolate chip cookie - R25</option>
+          <option value="">Classic biscuit half dipped in chocolate - R15</option>
+          <option value="">blue berry muffin - R30</option>
+          <option value="">choco chip muffin - R35</option>
+          <option value="">banna muffin - R30</option>
+          <option value="">bran muffin - R40</option>
+          
+        </select>
+        <input type="number" id="qty1" min="1" placeholder="Qty">
+      </div>
+
+      <div class="order-item">
+        <select id="item2">
+          <option value="">Add another item (optional)</option>
+          <option value="">americano - R35</option>
+          <option value="">macchiato - R35</option>
+          <option value="">espresso - R30</option>
+          <option value= ""> latte - R45</option>
+          <option value="">cappuccino - R43</option>
+          <option value=""> hot chocolate - R45</option>
+          <option value=""> iced matcha - R50</option>
+          <option value=""> green tea - R35</option>
+          <option value=""> fresh juice - R25</option>
+        </select>
+        <input type="number" id="qty2" min="1" placeholder="Qty">
+      </div>
+
+    <label>Special Instructions</label>
+    <textarea name="notes" rows="3" placeholder="Allergies, pickup time, etc."></textarea>
+
+    <label>Pickup or Delivery</label>
+    <select name="pickup" required>
+      <option value="Pickup">Pickup</option>
+      <option value="Delivery">Delivery</option>
+    </select>
+
+    <button type="submit">Submit Order</button>
+  </form>
+
+</div>
+
+</body>
+</html>
