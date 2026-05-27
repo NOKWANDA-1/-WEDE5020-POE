@@ -45,8 +45,8 @@ We also offer once off digital coupons to every customer after their first
 purchase.
 
 ## Proposed website features and functionality
-Our website will contain an about us page which will practically explain our business, what we aim to accomplish.
-,products page where there will be a detailed menu of all the baked goods we provide and their pricings ,lastly a contact us page this will include our working hours, location, telephone numbers and an email address for any enquiry.
+Our website will contain an about us page which will practically explain our business, what we aim to accomplish and ,products page where there will be a detailed menu of all the baked goods we provide and their pricings ,lastly a contact us page this will include our working hours, location, telephone numbers and an email address for any enquiry.(Medium design studio, 2025).
+
 
 ## Design and user experience
 
@@ -61,7 +61,7 @@ Navigation: our navigation stays simple our design ensures parents, busy individ
 This gives our business a sweet brand feel while keeping the site fast, accessible, easy to use on any device.
 
 ## Technical Requirements
-Here are the top technical features you need to consider: speed mobile-friendliness, browse capability, SSL certification, page redirects, site map and accessibility.
+Here are the top technical features you need to consider: speed mobile-friendliness, browse capability, SSL certification, page redirects, site map and accessibility. (Tech target,2022)
 
 Hosting & domain: secure hosting with SSL certificate. Custom domain so people can access it fast on their mobile.
 
@@ -71,6 +71,10 @@ Security & maintenance: daily backups, spam protection on forms, updates and mai
 
 Scalability: structure allows future e-commerce add-on for online payments and delivery scheduling without rebuilding the site.
 
+## Ordering system 
+Nokwanda’s baked goods has included an ordering system on the website this where after browsing our menu you can then place your order by firstly inputting your personal details which will serve as reference then select your items and place your order.
+ 
+And you can also choose whether you would like to collect or have it delivered straight to your door. Also noting the fact that we can only deliver within an 8km radius of our bakery.
 
 ## Timeline and Milestones
 
@@ -88,9 +92,9 @@ week 5: launching and pushing code using GitHub and creating a read.me repositor
 
 ## Budget
 
-Website design and development: R8500-R12000
-This includes the custom designs of the website, wireframes, the product catalogue with pricings, contact info for enquiry and testing.
-
+	Website design and development: R8500-R12000
+This includes the custom designs of the website, wireframes, monthly hosting fees, the product catalogue with pricings, contact info for enquiry and testing.
+ (Arthur Vengai,2025)
 Content and photography: R100-R2500
 Photography for the website are professional product photography with each picture raging at R500.
 
@@ -107,9 +111,13 @@ Payment terms:50% deposit to start or 50% on the day of the first launch.
 
 Arthur V., 2025.Circle media. Branding identity and design | website cost. [online] Available at: https://www.bing.com/ck/a?!&&p=b795f318b118285197428c83e6176ea6725f72a58f76ee4d0561bb3f5137a1c6JmltdHM9MTc3NjM4NDAwMA&ptn=3&ver=2&hsh=4&fclid=1ecb37c8-9e96-6571- 3a3622649f5f64ee&psq=circlemedia.co.za+website+budget+estimate+for+a+bakery&u=a1aHR0cHM6Ly9jaXJjbGVtZWRpYS5jby56YS8&ntb=1  [Accessed 15 April 2026].
 
+Hetler, A., 2022. TechTarget.10 best practices to make a mobile-friendly website. [online]Available at: https://www.techtarget.com [Accessed 26 May 2026].
+
+Medium.Design studio.,2025. Essential features every website must have. [online]Available at: https://medium.com [Accessed 25 May 2026].
+
 Meta, 2026.Understanding design and user experience. Available at:<techcrunch.com> [Accessed 17 April 2026].
 
-Ocean5strategies, [s.a.]. Top technical features to consider for a website. [online] Available at:  : https:www.ocean5strategies.com - Search [Accessed 15 April 2026]
+Ocean5strategies, [s.a.]. Top technical features to consider for a website. [online] Available at: : https:www.ocean5strategies.com - Search [Accessed 15 April 2026]
 
 pexels, [s.a.]. Picture of baked goods. [image online]. Available at: dish-food-cuisine-ingredient-finger-food-baked-goods-dessert-produce-garnish-staple-food-hors-d-oeuvre-appetizer-bread-breakfast-brunch-recipe-fruit-canape-toast-cream-cheese-pastry-strawberry-petit-four-Melba-toast-1501995.jpg (2304×1536) [Accessed 15 March 2026].
 
