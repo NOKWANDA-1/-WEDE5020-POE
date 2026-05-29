@@ -10,7 +10,8 @@ body {
     margin-left: 5px;
     margin-right: 5px;
 
-    
+  
+
 h2 {
   color: #A55A5A;
   text-align: none;
@@ -31,7 +32,7 @@ h3 {
 
 }
 
-/* utility clss for custom text sizing*/
+/* utility class for custom text sizing*/
 .text{
      font-size: 2em;
 
@@ -59,6 +60,14 @@ border-bottom: 3px solid rgb(179, 89, 105);
  
 }
 
+.nav-tabs{
+  position: sticky;
+  top:0;
+  z-index:1000;
+  background-color:hsl(6, 100%, 94%); 
+  padding: 10px 0;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
 
 nav a,
 .nav-tabs a,
@@ -69,6 +78,7 @@ header a {
     transition: color 0.2s ease;
     font-weight: 700;
     margin-right: 20px;
+    
 }
 
 .tab{
@@ -107,13 +117,63 @@ border-radius:8rem;
 }
 
 @media screen and (max-width:500px) {
-    .nav-tabs{
+
+  html, body{
+    overflow-x: hidden;
+    width: 100%;
+  }
+    
+    .nav-tabs{ 
+        position: sticky;
+        top:0;
+        z-index:1000;
         flex-direction: column;
         align-items: center;
         gap: 16px;
-        overflow-x: auto; /* allows horizontal scrolling if needed*/
-        scrollbar-width: none;
+        overflow-x: hidden;
+        background-color:hsl(6, 100%, 94%); 
+        padding: 12px 0;
+        width: 100%;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     }
+
+    .page-container{
+        padding: 10px;
+        width:auto;
+        box-sizing: border-box;
+    }
+
+    body{
+      font-size:0.9em;
+      line-height:1.4em;
+
+    }
+    h2{
+      font-size:1.5em;
+      text-align: center;
+    }
+
+    h3{
+      font-size:1.2em;
+      text-align: center;}
+
+      p{
+        font-size:0.9em;
+        line-height:1.4em;
+      }
+
+      img, .center-img{
+        display: block;
+        max-width: auto;
+        height: auto;
+        margin: 0 auto;
+      }
+
+      .menu-item{
+        display: block;
+        text-align: left;
+        margin-bottom: 10px;
+      }
 }
 
 .nav-tabs::-webkit-scrollbar {
@@ -162,6 +222,7 @@ border-radius:8rem;
     object-fit: cover;
     border-radius: 8px;
     margin: 0 auto;
+    text-align: center;
     justify-content: center;
     align-items: center;
 
