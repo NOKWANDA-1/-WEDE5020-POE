@@ -47,6 +47,7 @@ purchase.
 ## Proposed website features and functionality
 Our website will contain an about us page which will practically explain our business, what we aim to accomplish and ,products page where there will be a detailed menu of all the baked goods we provide and their pricings ,lastly a contact us page this will include our working hours, location, telephone numbers and an email address for any enquiry.(Medium design studio, 2025).
 
+And additionally, it will have an enquiry page to communicate with our team and a few forms for users to fill to help us improve our business and services.
 
 ## Design and user experience
 
@@ -59,6 +60,8 @@ Layout and design: layouts are spacious so products can be seen and stand with i
 Navigation: our navigation stays simple our design ensures parents, busy individuals, event planners or just customers can browse and make an order quickly.
 
 This gives our business a sweet brand feel while keeping the site fast, accessible, easy to use on any device.
+
+We also added a site map so that our users can be able to check how far they are from the store if the want to do walk ins and if the location they stay in qualifies for delivery of the products they want to order.
 
 ## Technical Requirements
 Here are the top technical features you need to consider: speed mobile-friendliness, browse capability, SSL certification, page redirects, site map and accessibility. (Tech target,2022)
@@ -76,6 +79,11 @@ Nokwanda’s baked goods has included an ordering system on the website this whe
  
 And you can also choose whether you would like to collect or have it delivered straight to your door. Also noting the fact that we can only deliver within an 8km radius of our bakery.
 
+  ## Enquiry page
+We decided to add an enquiry page on our website so that we can be able to communicate with our customers as it is important to know as a business what your customers are interested in to ensure that you meet the targets markets and make sales.
+
+To those who might want to enquire about volunteering the hours they can volunteer and what services they can do if they qualify to be one or work in our bakery and serve the community.
+
 ## Timeline and Milestones
 
 Week1: discovery and planning, this is when we choose a business idea confirming our goals, mission and vision and target audience
@@ -89,6 +97,17 @@ On-page, meta tags, alt text and images to showcase our delicious products.
 Week 4: testing and update: updating and adding more content on the about us page and creating and enquiry page for our customers to find out more about our products.
 
 week 5: launching and pushing code using GitHub and creating a read.me repository
+
+Week 6: Doing corrections on read me from feedback received from part 1 and updating from internal CSS to external CSS.
+
+Week 7: Using CSS properties such as font family, background color, size etc to make the website to look more of a website and linking CSS to html files.
+
+Week 8: Using java script and CSS to create interactive elements on the website adding systems like form and ordering systems to ensure user experience.
+
+Week 9: creating an enquiry file where users can be able to enquire about the business, services and working hours.
+
+The last week: ensuring everything is in place adding SEO and launching the website on a free platform and promoting it online.
+
 
 ## Budget
 
