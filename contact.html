@@ -2,7 +2,7 @@
 <html>
     <head>
         <title>
-            Home: Nokwanda's baked goods
+            Contact page
         </title>
         <link rel="stylesheet" href="css/style.css">
 
@@ -10,6 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     </head>
+    <link rel="icon" type="image/x-icon" href="img/favicon.ico">
      <style>
 .nav-tabs a:hover {
     background-color: rgb(239, 187, 195);
@@ -20,13 +21,14 @@
 
       <ul class="nav-tabs">
  
-    <li class="tab" > <a href="index.html" > home </a> </li>
-    <li class="tab"> <a href="products.html">products</a> </li>
-    <li class="tab"> <a href="About us.html" >About us </a> </li>
-    <li class="tab"> <a href="contact.html" >contact </a> </li>
-    <li class="tab"> <a href="terms.html">Terms & Conditions </a> </li>
-    <li class="tab"> <a href="ordering.html">ordering </a> </li>
-    <li class="tab active"></li>
+    <li class="tab active" > <a href="index.html" > home </a> </li>
+    <li class="tab active"> <a href="products.html">products</a> </li>
+    <li class="tab active"> <a href="About us.html" >About us </a> </li>
+    <li class="tab active"> <a href="contact.html" >contact </a> </li>
+    <li class="tab active"> <a href="terms.html">Terms & Conditions </a> </li>
+    <li class="tab active"> <a href="ordering.html">ordering </a> </li>
+    <li class="tab active"> <a href="enquiry.html">enquiries </a> </li>
+    
      
 
 </ul>
@@ -35,7 +37,7 @@
 
 <ul>
     
-   <img src= "img/FullLogo.jpg"  alt="bakery" width="80%" height="30%" length="75%" style="border-radius: 3em;" class="center-img">
+   <img src= "img/FullLogo.jpg"  alt="bakery" width="80%" height="30%"  style="border-radius: 3em;" class="center-img">
    
   Have a question or want to place an order? we are here to help and make your day a little sweeter.
    
@@ -58,6 +60,74 @@
     <h2>email address</h2>
     <li>General: Nokwanda@Nokwanda's baked good.co.za</li>
     <li>sales & orders: sales@Nokwanda's baked goods.com</li>
+
+<div class="container">
+    <!-- REPLACE 'your_formspree_id' with your actual Formspree endpoint hash -->
+    <form id="contactForm" action="https://formspree.io/f/mpqeedop" method="POST">
+        <h2>Contact Our Team</h2>
+
+        <div class="form-group">
+            <label for="name">Full Name:</label>
+            <input type="text" id="name" name="name" required>
+            <span id="nameError" class="error">Name must be at least 3 characters long.</span>
+        </div>
+
+        <div class="form-group">
+            <label for="phone">Phone Number:</label>
+            <input type="tel" id="phone" name="phone" placeholder="e.g., 0123456789" required>
+            <span id="phoneError" class="error">Please enter a valid 10-digit phone number.</span>
+        </div>
+
+        <div class="form-group">
+            <label for="msgType">Type of Message:</label>
+            <select id="msgType" name="msgType" required>
+                <option value="General">General Inquiry</option>
+                <option value="Feedback">Feedback</option>
+                <option value="Urgent">Urgent Support</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="message">Your Message:</label>
+            <textarea id="message" name="message" rows="5" required></textarea>
+            <span id="messageError" class="error">Message cannot be empty.</span>
+        </div>
+
+        <button type="submit">Send Message </button>
+    </div>
+    </form>
+
+    <script>
+        document.getElementById('contactForm').addEventListener('submit', function(event) {
+            let isValid = true;
+
+            // 1. Reset all error elements
+            document.querySelectorAll('.error').forEach(el => el.style.display = 'none');
+
+            // 2. Character length validation (Name)
+            const nameInput = document.getElementById('name').value.trim();
+            if (nameInput.length < 3) {
+                document.getElementById('nameError').style.display = 'block';
+                isValid = false;
+            }
+
+            // 3. Format validation using Regex (10-digit Phone Number)
+            const phoneInput = document.getElementById('phone').value.trim();
+            const phoneRegex = /^[0-9]{10}$/; 
+            if (!phoneRegex.test(phoneInput)) {
+                document.getElementById('phoneError').style.display = 'block';
+                isValid = false;
+            }
+
+            // 4. Prevent submission to Formspree if any JavaScript check fails
+            if (!isValid) {
+                event.preventDefault(); 
+            }
+        });
+    </script>
+  
+</div>
+
     <div class="footer-bottom"> 
         <p>&copy; 2026 Nokwanda's baked goods.
             <a>author:Nokwanda, all rights reserved</a>
@@ -65,8 +135,6 @@
         </p>
     </div>
     </footer>
-
-
 
 </ul>
 </body>
