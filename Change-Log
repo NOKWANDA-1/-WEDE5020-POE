@@ -1,0 +1,23 @@
+##Improvements made from part 1 feedback
+  
+-A <form> tag was added as it was missing in one of my html files, also removing the </head> 
+tag from inside the <ul> tab.
+-Under my Ordering.html file i added the values  of the menu that where empty or missing
+from <option> elements.
+-Removed the length attribute as it is not part of the attributes needed for the <img> element.
+-Adding the corrent link for contact under my about us.html page as i initially linkedd the 
+incorrect one.
+
+## New Additions 
+
+-I have added an enquiry.html page on my website for better user experience so that we can be 
+able to comunnicate with our customers and answer any questions they need clarity of.
+-Sort function on the products page so users can just sort the menu according to prices from 
+low to high without having to scroll throughout the website.
+-Lastly a site map was added on the home page so that users can be abble to check our location from 
+their personal location.
+
+
+
+
+  
